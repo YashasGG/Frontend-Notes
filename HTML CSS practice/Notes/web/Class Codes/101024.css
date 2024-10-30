@@ -1,0 +1,15 @@
+div p{
+    color: rgb(255, 0, 111);
+}
+
+/* div>p{
+    color: red;
+}
+
+div+p{
+    color: red;
+} */ 
+
+/* div~p{  
+    color: aqua;
+} */

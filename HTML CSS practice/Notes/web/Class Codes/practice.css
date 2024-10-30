@@ -1,0 +1,83 @@
+/* li{
+    list-style: none;
+}
+li::before{
+    content:'🥰';
+}
+
+li::marker{
+    color: aqua;
+}
+
+li::after{
+    content:'😻';
+}
+
+p::selection{
+    background-color: blanchedalmond;
+    color: aqua;
+}
+
+p::first-letter{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p::first-line{
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+} */
+
+/* ------------------------------------
+<!-- 17/10/24 --> */
+
+/* [id]{
+    color: red;
+} */
+
+/* [id='container']{
+    color: red;
+} */
+
+/* [id="wrapper"]{
+    color: aqua;
+} */
+
+/* [id^='w']{
+    color: brown;
+} */
+
+/* [title^='th']{
+    color: red;
+} */
+
+/* [id$='r']{
+    color: red;
+} */
+
+/* [title~=this]{
+    color: red;
+} */
+
+/* [class|=align]{
+    color: aqua;
+} */
+
+/* [title*=' ']{
+    color: red;
+} */
+
+
+/* 21-10-24 */
+
+div {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    padding: 40px;
+    margin: 40px;
+    border: 30px solid green;
+    box-sizing:content-box;
+
+}
+
+
